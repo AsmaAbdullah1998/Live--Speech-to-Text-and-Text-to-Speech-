@@ -57,7 +57,7 @@ authenticator = IAMAuthenticator('vYI9rkcSWl_wELYNt2Y-5uxAuNDmPKL9XkMLal4R0Vn1')
 tts = TextToSpeechV1(authenticator=authenticator)
 tts.set_service_url('https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/4afce834-c1d1-4edf-ba89-dafcd89544a0') #Your url
 ```
-* Create [output.mp3]() file write the code 
+* Create [output.mp3](https://github.com/AsmaAbdullah1998/Live--Speech-to-Text-and-Text-to-Speech-/blob/main/output.mp3) file write the code 
 ```
 with open('output.txt', 'r') as f:
             text = f.readlines()

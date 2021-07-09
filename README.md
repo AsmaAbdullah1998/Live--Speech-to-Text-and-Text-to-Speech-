@@ -43,10 +43,13 @@ To get a local copy up and running follow these simple example steps.
 
 
 ### Speech to Text 
-* [speech.cfg]() ***use your apikey***
+* In [speech.cfg](https://github.com/AsmaAbdullah1998/Live--Speech-to-Text-and-Text-to-Speech-/blob/main/speech.cfg) file
+``` 
+apikey = 'YD3YBUw2Cv3CRQUZ7OGDzLpXNy-5HIr9LtSEV2OrCXAZ' #use your apikey
 ```
-apikey = 'YD3YBUw2Cv3CRQUZ7OGDzLpXNy-5HIr9LtSEV2OrCXAZ'
-```
+* [output.text]()
+
+
 ### Text to Speech
 
 
